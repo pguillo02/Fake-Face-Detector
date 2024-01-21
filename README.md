@@ -1,2 +1,3 @@
 # Fake-Face-Detector
-Fake face detector developed for AA2 course (Still in progress
+Fake face detector developed for AA2 course (Still in progress)
+
