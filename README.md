@@ -8,7 +8,7 @@ Fake face detector developed for the AA2 course. Multimodel project designed for
 
 FakeFaceAuthenticity: a completely new architecture, designed from zero, with two convolutional layers, two pooling layers and two fully connected layers.
 
-Transfer_learning: transfer learning model based on resNet18, two fully connected layers
+Transfer_learning: transfer learning model based on resNet18, two fully connected layers.
 
 ## Implementation details
 
