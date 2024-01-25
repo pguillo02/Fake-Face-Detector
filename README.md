@@ -14,7 +14,7 @@ Transfer_learning: transfer learning model based on resNet18, two fully connecte
 
 Activation Function: RELU
 
-Optimization method: ADAMW
+Optimization method: ADAMW (adaptative)
 
 Loss Function: Cross Entropy
 
